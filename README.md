@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently preparing for Cloud Certifications<br>👯 I’m Currently learning and Exploring some JavaScript libraries.<br>🤝 Working as a Freelance Front-end Developer.<br>🌱 I’m currently studying bachelor's of technology in Comp. Science.<br>💬 Ask me about Good First issues & Exciting projects to work on.<br>⚡ Fun fact : loves the 80s music
+👯 I’m Currently learning and Exploring WEB DEV and some JavaScript libraries.<br>🤝 Working as a Freelance Front-end Developer.<br>🌱 I’m currently studying bachelor's of technology in Comp. Science.<br>💬 Ask me about Good First issues & Exciting projects to work on.<br>⚡ Fun fact : loves the 80s music
 
 
 ## 🌐 Socials:
