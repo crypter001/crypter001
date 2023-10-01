@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m Currently learning and Exploring WEB DEV and some JavaScript libraries.<br>🤝 Working as a Freelance Front-end Developer.<br>🌱 I’m currently studying bachelor's of technology in Comp. Science.<br>💬 Ask me about Good First issues & Exciting projects to work on.<br>⚡ Fun fact : loves the 80s music
+👯 I’m very passionate about WEB DEV and Python.<br>🤝 Working as a Freelance Web and Python Developer.<br>🌱 I’m currently studying bachelor's of technology in Comp. Science.<br>💬 Ask me about Good First issues & Exciting projects to work on.<br>⚡ Fun fact : loves the 80s music
 
 
 ## 🌐 Socials:
